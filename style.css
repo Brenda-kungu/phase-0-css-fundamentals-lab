@@ -2,4 +2,31 @@ body {
   width: 100%;
   height: 100%;
   margin: 0;
+}h{
+  text-align: center;
 }
+img{
+  image-resolution: 
+}
+link{
+  text-align: center;
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: darkgray;
+}
+title{
+  font-size: smaller;
+  text-align: center;
+}
+p{
+  width: 800px;
+  text-align: center;
+  line-break: var(var);
+  text-align: left;
+}
+div{
+  background-color: aliceblue;
+  text-align: center;
+  width: 25%;
+}
+
